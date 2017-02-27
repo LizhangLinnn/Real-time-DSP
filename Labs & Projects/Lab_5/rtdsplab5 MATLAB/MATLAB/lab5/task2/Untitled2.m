@@ -1,0 +1,1 @@
+bode(gain_fre_board);
